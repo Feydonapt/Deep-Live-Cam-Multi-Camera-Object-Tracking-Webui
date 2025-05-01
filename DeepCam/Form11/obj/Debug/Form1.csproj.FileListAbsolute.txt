@@ -1,0 +1,4 @@
+D:\GithubNew\14\Chibi Clash\Chibi\Chibi-Clash-Exp\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\14\Chibi Clash\Chibi\Chibi-Clash-Exp\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\GithubNew\16\DeepLiveCam\JustCam\DeepCam\DeepCam\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\16\DeepLiveCam\JustCam\DeepCam\DeepCam\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
